@@ -1,0 +1,5 @@
+{
+    "base_model": "google-bert/bert-base-uncased",
+    "data_path": "folder\file.csv",
+    "output_dir": "folder"
+}
